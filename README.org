@@ -4,7 +4,7 @@
 
 
 
-keywords: [[https://srfi.schemers.org/?keywords=arithmetic][Arithmetic]], [[https://srfi.schemers.org/?keywords=data-structure][Data Structure]]
+keywords: [[https://srfi.schemers.org/?keywords=data-structure][Data Structure]], [[https://srfi.schemers.org/?keywords=numeric][Numeric]]
 
 This repository hosts [[https://srfi.schemers.org/srfi-70/][SRFI 70]]: Numbers, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
